@@ -1,4 +1,32 @@
-# Todo API Documentation
+# Todo Documentation
+
+### Installation 
+
+```bash
+    composer install
+```
+
+```bash
+    npm install
+```
+
+```bash
+    npm run build
+```
+or
+```bash
+    npm run dev
+```
+
+```bash
+    php artisan migrate
+````
+
+```bash
+    php artisan serve
+```
+
+# Todo API documentation
 
 This document provides an overview of the API endpoints and usage.
 
@@ -55,7 +83,7 @@ Retrieves details of the currently authenticated user.
 | `Authorization`  | `Bearer <token>`  |
 
 
-### Task Management
+## Task Management
 
 #### List Tasks
 
