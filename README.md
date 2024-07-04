@@ -1,4 +1,4 @@
-# Curicx API Documentation
+# Todo API Documentation
 
 This document provides an overview of the API endpoints and usage.
 
