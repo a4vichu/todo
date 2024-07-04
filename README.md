@@ -12,9 +12,7 @@
 
 ```bash
     npm run build
-```
-or
-```bash
+    or
     npm run dev
 ```
 
