@@ -10,7 +10,8 @@ class TaskController extends Controller
 {
     public function index()
     {
-        $tasks = Task::with('user')->get();
+        $userId = Auth::id();
+        $tasks = Task::with('user')->where('user_id', $userId)->get();
         return view('pages.index', compact('tasks'));
     }
 

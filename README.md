@@ -12,13 +12,15 @@
 
 ```bash
     npm run build
-    or
+```
+
+```bash
     npm run dev
 ```
 
 ```bash
     php artisan migrate
-````
+```
 
 ```bash
     php artisan serve

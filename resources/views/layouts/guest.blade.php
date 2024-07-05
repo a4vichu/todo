@@ -12,8 +12,8 @@
 
 <body>
     <div
-        class="w-full h-full relative sm:flex sm:justify-center bg-green-300 sm:items-center min-h-screen bg-dots-darker bg-center  selection:bg-red-500 selection:text-white">
-        <div class="w-full flex flex-col justify-between h-full max-w-7xl mx-auto p-6 lg:p-8">
+        class="w-full h-screen relative sm:flex sm:justify-center bg-green-300 sm:items-center min-h-screen bg-dots-darker bg-center  selection:bg-red-500 selection:text-white">
+        <div class="w-full flex flex-col justify-between min-h-full max-w-7xl mx-auto p-6 lg:p-8">
             <div class="flex  w-full">
                 <svg viewBox="0 0 62 65" fill="none" xmlns="http://www.w3.org/2000/svg"
                     class="h-16 w-auto ">
